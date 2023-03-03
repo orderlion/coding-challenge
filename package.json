@@ -1,0 +1,11 @@
+{
+  "name": "@orderlion/coding-challenge",
+  "version": "1.0.0",
+  "description": "A starting point for all sorts of coding challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orderlion",
+  "license": "ISC"
+}
