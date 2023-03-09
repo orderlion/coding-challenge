@@ -8,6 +8,7 @@
   },
   "author": "Orderlion",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "simpl-schema": "^3.4.1"
   }
