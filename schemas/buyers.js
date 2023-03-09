@@ -19,7 +19,7 @@ export const SchemaBuyers = new SimpleSchema({
   'company.web': String,
   'company.uid': String,
   'company.countryCode': String,
-  isTestBuyer: { // Is this the Supplier's test buyer? - defaults to the same id as the supplier
+  isTestBuyer: { // Is this a test buyer?
     type: Boolean,
     defaultValue: false
   },
